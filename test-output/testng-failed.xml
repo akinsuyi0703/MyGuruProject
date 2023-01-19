@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GuruProject]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestGuru(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.myguruproject.testCases.TC_LoginDDT_002">
+        <methods>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="0 1"/>
+          <include name="generateExtentReports"/>
+          <include name="tearDown"/>
+          <include name="initialiseExtentReport"/>
+          <include name="closeDown"/>
+        </methods>
+      </class> <!-- com.myguruproject.testCases.TC_LoginDDT_002 -->
+    </classes>
+  </test> <!-- TestGuru(failed) -->
+</suite> <!-- Failed suite [GuruProject] -->

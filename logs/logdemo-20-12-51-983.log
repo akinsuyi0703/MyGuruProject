@@ -1,0 +1,13 @@
+2023.01 12.19:54:43 [main] INFO  com.myguruproject.testCases.BaseClass - Entered username
+"2023.01 12.19:54:44 [main] INFO  com.myguruproject.testCases.BaseClass - Entered password
+"2023.01 12.19:54:52 [main] INFO  com.myguruproject.testCases.BaseClass - login passed
+"2023.01 12.19:56:21 [main] INFO  com.myguruproject.testCases.BaseClass - URL is opened
+"2023.01 12.19:56:22 [main] INFO  com.myguruproject.testCases.BaseClass - Entered username
+"2023.01 12.19:56:22 [main] INFO  com.myguruproject.testCases.BaseClass - Entered password
+"2023.01 12.19:57:54 [main] INFO  com.myguruproject.testCases.Base - URL is opened
+"2023.01 12.19:57:54 [main] INFO  com.myguruproject.testCases.Base - Entered username
+"2023.01 12.19:57:54 [main] INFO  com.myguruproject.testCases.Base - Entered password
+"2023.01 12.19:59:28 [main] INFO  com.myguruproject.testCases.BaseClass - URL is opened
+"2023.01 12.19:59:28 [main] INFO  com.myguruproject.testCases.BaseClass - Entered username
+"2023.01 12.19:59:28 [main] INFO  com.myguruproject.testCases.BaseClass - Entered password
+"

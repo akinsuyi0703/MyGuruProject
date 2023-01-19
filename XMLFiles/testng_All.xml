@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="GuruProject">
+  <test  name="TestGuru">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.myguruproject.testCases.TC_LoginTest_001"/>
+      <class name="com.myguruproject.testCases.TC_HomePageTest_003"/>
+      <class name="com.myguruproject.testCases.TC_AddCustomerTest_004"/>
+      <class name="com.myguruproject.testCases.TC_MecuryTour00Test_005"/>
+    </classes>
+  </test> <!-- Test -->
+
+</suite> <!-- Suite -->

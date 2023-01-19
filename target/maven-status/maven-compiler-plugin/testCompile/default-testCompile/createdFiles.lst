@@ -1,0 +1,16 @@
+com\myguruproject\testCases\TC_LoginTest_001.class
+com\myguruproject\utilities\HelperClass.class
+com\myguruproject\testCases\TC_AddCustomerTest_004.class
+com\myguruproject\utilities\ReadConfig.class
+com\myguruproject\pageObjects\MecuryTourPage.class
+com\myguruproject\pageObjects\LoginPage.class
+com\myguruproject\testCases\TC_LoginDDT_002.class
+com\myguruproject\utilities\Reporting.class
+com\myguruproject\testCases\BaseClass.class
+com\myguruproject\testCases\TC_HomePageTest_003.class
+com\myguruproject\testCases\TC_MecuryTour00Test_005.class
+com\myguruproject\testCases\Base.class
+com\myguruproject\pageObjects\AddCustomerPage.class
+com\myguruproject\pageObjects\HomePage.class
+com\myguruproject\utilities\ExtentFactory.class
+com\myguruproject\utilities\ExcelDataSupllier.class
